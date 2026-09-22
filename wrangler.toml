@@ -1,0 +1,4 @@
+name = "zeroads-rules2"
+compatibility_date = "2026-09-01"
+
+assets = { directory = "." }
