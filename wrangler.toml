@@ -1,4 +1,5 @@
-name = "zeroads-rules2"
+name = "zeroads-rules0"
 compatibility_date = "2026-09-01"
 
-assets = { directory = "." }
+[assets]
+directory = "."
